@@ -1,0 +1,24 @@
+ul{
+    background: cornflowerblue;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 25%;
+    height: 100%;
+    position: fixed;
+    overflow: auto;
+}
+ul li{
+    font-size: 100px;
+}
+div{
+    list-style-type: none;
+    margin: 0;
+    padding: 0 28%;
+    width: 75%;
+    height: 100%;
+    position: fixed;
+    /* 制作滚动条 */
+    overflow: auto;
+
+}
